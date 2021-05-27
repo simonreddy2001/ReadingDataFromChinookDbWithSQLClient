@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SQLClientPractice.Models.Customer">
+    <Position X="1" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAIAAAAAAAAAIAABAAAAAAIAAAAAg=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLClientPractice.Models.CustomerCountry">
+    <Position X="3.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CustomerCountry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLClientPractice.Models.CustomerSpender">
+    <Position X="3.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CustomerSpender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLClientPractice.Repositories.ConnectionStringHelper">
+    <Position X="7.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ConnectionStringHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLClientPractice.Repositories.CustomerRepository">
+    <Position X="11" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgEQAAAAAABAAAAAAAAAAAAAAAoAAAAAABAAg=</HashCode>
+      <FileName>Repositories\CustomerRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SQLClientPractice.Repositories.ICustomerRepository">
+    <Position X="7.75" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgEQAAAAAABAAAAAAAAAAAAAAAoAAAAAABAAg=</HashCode>
+      <FileName>Repositories\ICustomerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
